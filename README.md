@@ -2,4 +2,4 @@
 
 Usage:
 
-─$ python3 main.py -F emails.txt
+─$ python3 main.py -F IP_address_list.txt
